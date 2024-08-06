@@ -1,5 +1,5 @@
 </h1>QR Code Generator</h1>
-<h2>hThis project is simple generate QRcode from URL by specific URL and save as URL name.</h2>
+<h2>This project is simple generate QRcode from URL by specific URL and save as URL name.</h2>
 
 <h2>Prerequiresite</h2>
 - Python 3.x
